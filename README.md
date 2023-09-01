@@ -7,7 +7,7 @@ This is a repo with the sample code for my blog post:
 
 ## Screencasts
 
-You can view my code this project in the following screencasts:
+You can view me code this project in the following screencasts:
 
 Part 1: Serialization
 
